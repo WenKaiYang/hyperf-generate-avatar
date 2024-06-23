@@ -1,4 +1,4 @@
-# 头像生成工具
+# 用户名生成头像工具
 
 ```
 composer require ella123/hyperf-generate-avatar
